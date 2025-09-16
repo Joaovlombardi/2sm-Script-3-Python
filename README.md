@@ -16,7 +16,7 @@
 Ao cadastrar 8 times, o sistema gera automaticamente o chaveamento com rodadas até a final:
 
 --- CHAVEAMENTO ---
-Jogo 1: Time A  x  Time B
+Jogo 1: Time A  x  Time B <br>
 Jogo 2: Time C  x  Time D
 Jogo 3: Time E  x  Time F
 Jogo 4: Time G  x  Time H
